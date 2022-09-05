@@ -10,7 +10,7 @@
 Contact 📞
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhfif718@gmail.com)](mailto:dhfif718@gmail.com)
-
+[![Instgram Badge](https://img.shields.io/badge/Instgram-E4405F?style=flat-square&logo=Instgram&logoColor=white&link=https://www.instagram.com/jhyeokkk/)]
 
 
 I am learning ...
