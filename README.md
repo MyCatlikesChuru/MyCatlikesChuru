@@ -4,9 +4,9 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyCatlikesChuru&show_icons=true&theme=radical)
-<div align=center>
+
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhfif718@gmail.com)](mailto:dhfif718@gmail.com)
-</div>>
 
 
 
