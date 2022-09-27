@@ -1,10 +1,9 @@
 <h2>I wanna be Backend Engineer 👨🏻‍💻<h2/>
 <br/> <!-- 띄워쓰기 문법 -->
-<br/>
  
 ![MyCatlikesChuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyCatlikesChuru&show_icons=true&theme=algolia)
 <h5/>
-<br/>
+<br/> <!-- 띄워쓰기 문법 -->
 
 Contact 📞
 
@@ -12,7 +11,7 @@ Contact 📞
 [![Tistory Badge](https://img.shields.io/badge/Tistory-F40D12?style=flat-square&logo=Tistory&logoColor=white)](https://leejellan.tistory.com/)
 <!-- [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jhyeokkk/) -->
 
-###   
+
     
 I am learning ... 📖
 
