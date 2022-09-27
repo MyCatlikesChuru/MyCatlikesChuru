@@ -1,12 +1,11 @@
 <h2>I wanna be Backend Engineer 👨🏻‍💻<h2/>
 <br/> <!-- 띄워쓰기 문법 -->
 <br/>
-<br/>
-<br/>
  
 ![MyCatlikesChuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyCatlikesChuru&show_icons=true&theme=algolia)
-
 <h5/>
+<br/>
+
 Contact 📞
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhfif718@gmail.com)](mailto:dhfif718@gmail.com)
