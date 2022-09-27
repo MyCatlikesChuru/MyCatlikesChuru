@@ -1,4 +1,4 @@
-<h1>I wanna be Backend Engineer 👨🏻‍💻<h1/>
+<h1/>I wanna be Backend Engineer 👨🏻‍💻
 <br/> <!-- 띄워쓰기 문법 -->
 <br/>
 <br/>
