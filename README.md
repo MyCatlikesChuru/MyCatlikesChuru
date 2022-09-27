@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 ### I wanna be Backend Engineer 👨🏻‍💻
 
