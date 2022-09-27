@@ -1,13 +1,9 @@
-<h2>I wanna be Backend Engineer 👨🏻‍💻<h2/>
+<h1>I wanna be Backend Engineer 👨🏻‍💻<h1/>
 <br/> <!-- 띄워쓰기 문법 -->
 <br/>
 <br/>
 <br/>
-### 
-###    
-###    
-###    
-
+ 
 ![MyCatlikesChuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyCatlikesChuru&show_icons=true&theme=algolia)
 
 
